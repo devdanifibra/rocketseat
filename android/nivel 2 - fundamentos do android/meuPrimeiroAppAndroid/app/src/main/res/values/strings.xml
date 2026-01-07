@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MeuPrimeiroAppAndroid</string>
+    <string name="meu_primeiro_app_android">Meu primeiro App Android!</string>
+    <string name="android_logo">Android Logo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="name_age_gender">Nome %1$s\n\nIdade %2$s\n\nGênero %3$s</string>
+    <string name="ir_para_activive_2">Ir para Activive 2</string>
+</resources>

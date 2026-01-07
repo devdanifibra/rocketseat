@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">appNavigation</string>
+    <string name="ir_para_proxima_tela">Ver próximo dado</string>
+    <string name="fragment_1">DADO Nº 1</string>
+    <string name="fragment_2">DADO Nº 2</string>
+    <string name="rollTheDie">Roll or Die, Rolling</string>
+    <string name="voltar">Voltar para o primeiro dado</string>
+    <string name="iconDice">Icon do dice</string>
+</resources>
